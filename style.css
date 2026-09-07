@@ -1,36 +1,47 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background: #f7f7f7;
-    color: #333;
+/* 🌙 Dark Mode Theme */
+.dark-mode {
+    background: #1a1a1a;
+    color: #e6e6e6;
 }
 
-header {
-    text-align: center;
-    padding: 40px;
+.dark-mode header {
+    background: #2a2a2a;
+    color: #fff;
+}
+
+.dark-mode .banner {
+    background: linear-gradient(135deg, #2d3b8f, #4a6cf7);
+}
+
+.dark-mode section {
+    background: #222;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.dark-mode footer {
+    background: #2a2a2a;
+    color: #ccc;
+}
+
+/* Toggle Button */
+#darkModeToggle {
+    margin-top: 15px;
+    padding: 10px 20px;
     background: #4a6cf7;
     color: white;
-}
-
-header .links a {
-    margin: 0 10px;
-    color: #fff;
-    text-decoration: none;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
     font-weight: bold;
+    transition: 0.3s;
 }
 
-section {
-    padding: 30px;
-    max-width: 800px;
-    margin: auto;
+#darkModeToggle:hover {
+    background: #6a8dff;
 }
 
-h2 {
-    color: #4a6cf7;
-}
-
-footer {
-    text-align: center;
-    padding: 20px;
-    background: #eee;
+.dark-mode #darkModeToggle {
+    background: #6a8dff;
+    color: #fff;
 }
