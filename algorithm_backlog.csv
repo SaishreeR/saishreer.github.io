@@ -1,0 +1,42 @@
+Title,Body,Labels,Assignees,Milestone,State
+"Learn Java Basics","Understand Java syntax, OOP, collections","foundation","", "Sprint 1","open"
+"Learn Python Basics","Practice Python lists, dicts, functions","foundation","", "Sprint 1","open"
+"Master Big-O Complexity","Analyze time and space complexity for all problems","foundation","", "Sprint 1","open"
+
+"Array Problem Set","Solve 15 array problems in Java and Python","arrays","", "Sprint 2","open"
+"String Algorithms","Practice substring, palindrome, frequency problems","strings","", "Sprint 2","open"
+"HashMap Practice","Implement HashMap operations manually","hashmap","", "Sprint 2","open"
+
+"Linked List Implementations","Build singly and doubly linked lists","linked-list","", "Sprint 3","open"
+"Cycle Detection","Implement Floyd’s cycle detection algorithm","linked-list","", "Sprint 3","open"
+"Stack and Queue","Implement stack and queue using arrays and lists","stack-queue","", "Sprint 3","open"
+
+"Tree Traversals","Implement DFS, BFS, preorder, inorder, postorder","trees","", "Sprint 4","open"
+"Graph Basics","Implement adjacency list and matrix","graphs","", "Sprint 4","open"
+"Graph Algorithms","Solve BFS/DFS graph problems","graphs","", "Sprint 4","open"
+
+"Sorting Algorithms","Implement merge sort and quicksort","sorting","", "Sprint 5","open"
+"Binary Search Patterns","Solve 10 binary search problems","search","", "Sprint 5","open"
+"Two Pointer Technique","Solve 10 two-pointer problems","two-pointer","", "Sprint 5","open"
+
+"Sliding Window Problems","Solve 10 sliding window problems","sliding-window","", "Sprint 6","open"
+"Greedy Algorithms","Solve 10 greedy problems","greedy","", "Sprint 6","open"
+"Backtracking Problems","Solve 10 backtracking problems","backtracking","", "Sprint 6","open"
+
+"Dynamic Programming Set","Solve 20 DP problems","dp","", "Sprint 7","open"
+"Create DP Templates","Build reusable DP code templates","dp","", "Sprint 7","open"
+
+"Prefix Sum Patterns","Solve prefix sum problems","patterns","", "Sprint 8","open"
+"Kadane’s Algorithm","Implement max subarray algorithm","patterns","", "Sprint 8","open"
+"Monotonic Stack Problems","Solve next greater element problems","patterns","", "Sprint 8","open"
+"Union-Find","Implement DSU/Union-Find","patterns","", "Sprint 8","open"
+"Trie Implementation","Build autocomplete Trie","patterns","", "Sprint 8","open"
+
+"Amazon OA Practice","Solve 20 Amazon-style problems","amazon","", "Sprint 9","open"
+"Google DSA Practice","Solve 20 Google-style problems","google","", "Sprint 9","open"
+"Meta BFS/DFS Practice","Solve Meta-style graph problems","meta","", "Sprint 9","open"
+"Mock Interviews","Complete 10 mock interviews","interview","", "Sprint 9","open"
+
+"OOP Design","Practice low-level design problems","design","", "Sprint 10","open"
+"Class Diagrams","Create UML diagrams for small systems","design","", "Sprint 10","open"
+"Behavioral STAR Prep","Prepare 20 STAR responses","behavioral","", "Sprint 10","open"
